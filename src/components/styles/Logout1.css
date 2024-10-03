@@ -1,0 +1,21 @@
+div{
+    text-align: center;
+    background-image: url('https://cdn.pixabay.com/photo/2023/10/24/19/09/nevada-8338929_960_720.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+.link{
+    color: rgb(213, 57, 10);
+    text-decoration: none;
+    font-size: xx-large;
+}
+ul{
+   padding-top: 100px;
+   display: flex;
+   justify-content: space-around;
+}
+.link:hover{
+   border-bottom: 1px solid red;
+}

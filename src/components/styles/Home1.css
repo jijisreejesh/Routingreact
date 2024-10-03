@@ -1,0 +1,10 @@
+li{
+    padding-left: 40px;
+    color: burlywood;
+    font-size: larger;
+    cursor: pointer;
+    height: max-content;
+}
+li:hover{
+    font-size: larger;
+}
